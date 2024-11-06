@@ -1,6 +1,6 @@
 ### Olá! eu sou o Magosso
-- 🔭 Atualmente estudando na Universidade Uniderp
-- 🌱 Eu estou aprendendo ReactJS
+- 🔭 Formado em Ciência da Computação(2024)
+- 🌱 Eu estou aprendendo Azure-900
 - 😄 Pronouns: ele/dele
 <div align="left">
   <a href="https://github.com/magossinho">
